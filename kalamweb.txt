@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kalam Dream Labs</title>
+    <style>
+      body {
+        background-image: url('Kalam.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="logokalam.png" alt="Trulli" width="200" height="200" align="left">
+    <h2 style="color: black;" align="center">KALAM DREAMS LAB</h2>
+    <nav>
+      <ul>
+        <li><button><a href="#home">Home</a></button></li>
+        <li><button><a href="#activities">Activities</a></button></li>
+        <li><button><a href="#projects">Projects</a></button></li>
+        <li><button><a href="#events">Events</a></button></li>
+      </ul>
+    </nav>
+  </body>
+</html>
